@@ -19,7 +19,7 @@ const HubWisaSection = () => {
             </div>
           </div>
           <h3 className="text-2xl md:text-3xl font-bold mb-4" style={{ color: "hsl(0 0% 100%)" }}>
-            Conheça o Hub WiSa
+           Sobre a WiSa Inteligência para Negócios
           </h3>
           <p className="text-base mb-8 max-w-2xl mx-auto" style={{ color: "hsl(215 20% 70%)" }}>
             Somos um ecossistema de inteligência B2B focado em crescimento escalável. 
@@ -27,7 +27,7 @@ const HubWisaSection = () => {
           </p>
           <Button size="lg" asChild className="text-base px-8 py-6 rounded-lg font-semibold hover:opacity-90 transition-opacity" style={{ background: "linear-gradient(135deg, hsl(25 38% 44%), hsl(25 50% 55%))", color: "white" }}>
             <a href="https://hubwisa.com.br" target="_blank" rel="noopener noreferrer">
-              Acessar Hub WiSa
+              Acessar Nosso Site
               <ExternalLink className="w-4 h-4 ml-2" />
             </a>
           </Button>
